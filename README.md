@@ -76,4 +76,4 @@ In this project, parts produced through 3D printing are subjected to quality che
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/quality-control-packaging-system.git
+   git clone https://github.com/Farouk170/Gestion-des-pi-ces-m-caniques
